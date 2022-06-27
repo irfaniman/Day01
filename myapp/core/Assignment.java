@@ -1,5 +1,6 @@
 // Git testing 
 // Git testing part 2
+// Git testing part 3
 package myapp.core;
 
 
